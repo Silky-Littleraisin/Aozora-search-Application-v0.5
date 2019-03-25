@@ -18,5 +18,3 @@ with bz2.open(fname_input,'rt') as data_file, open(fname_out,'wt') as output_fil
         
         print(*tokens, sep=' ', end=' ',file=output_file)
 
-print(time.localtime()-time0)
-
