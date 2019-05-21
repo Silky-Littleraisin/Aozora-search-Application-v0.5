@@ -72,7 +72,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aozora/templates/blog/indexblog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="786">
+            <state relative-caret-position="1273">
               <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
             </state>
           </provider>
@@ -365,26 +365,6 @@
               <item name="aozora_new" type="b2602c69:ProjectViewProjectNode" />
               <item name="aozora_new" type="462c0819:PsiDirectoryNode" />
               <item name="aozora" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aozora_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aozora_new" type="462c0819:PsiDirectoryNode" />
-              <item name="aozora" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aozora_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aozora_new" type="462c0819:PsiDirectoryNode" />
-              <item name="aozora" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="materialize.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="aozora_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aozora_new" type="462c0819:PsiDirectoryNode" />
-              <item name="aozora" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -626,12 +606,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556883648599</updated>
       <workItem from="1556883654237" duration="74824000" />
-      <workItem from="1558437559654" duration="398000" />
+      <workItem from="1558437559654" duration="403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75222000" />
+    <option name="totallyTimeSpent" value="75227000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -644,7 +624,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="963" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2960928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -996,7 +975,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aozora/templates/blog/indexblog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
+        <state relative-caret-position="1273">
           <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
         </state>
       </provider>
