@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bcd5e7e-627f-421f-b944-cf40710085a3" name="Default Changelist" comment="" />
+    <list default="true" id="3bcd5e7e-627f-421f-b944-cf40710085a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/../plot.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +31,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Downloads/chap05/materials/sample_submission_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
+            <state relative-caret-position="598">
               <caret line="134" column="13" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -348,9 +351,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="53" />
+    <option name="y" value="55" />
     <option name="width" value="1680" />
-    <option name="height" value="958" />
+    <option name="height" value="965" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -557,12 +561,12 @@
       <updated>1556883648599</updated>
       <workItem from="1556883654237" duration="74824000" />
       <workItem from="1558437559654" duration="403000" />
-      <workItem from="1558447965151" duration="1981000" />
+      <workItem from="1558447965151" duration="2399000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77208000" />
+    <option name="totallyTimeSpent" value="77626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,6 +579,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="965" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2997558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -946,7 +951,7 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/chap05/materials/sample_submission_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
+        <state relative-caret-position="598">
           <caret line="134" column="13" selection-start-line="134" selection-start-column="13" selection-end-line="134" selection-end-column="13" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
