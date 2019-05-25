@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bcd5e7e-627f-421f-b944-cf40710085a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../practice6/katate2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../practice6/katate3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/betweenness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/closeness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/dendogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/dgree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/karate6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/louvain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practice6/pagerank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -350,9 +358,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="53" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="965" />
   </component>
@@ -578,7 +585,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="965" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="965" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2997558" />
