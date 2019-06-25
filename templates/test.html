@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        p{color: #0f9d58}
+    </style>
+</head>
+<body>
+
+<h2>JavaScript HTML DOM</h2>
+
+<p>Hello World!</p>
+
+<p>Hello Norway!</p>
+
+<p>Click the button to change the color of all p elements.</p>
+
+<button onclick="myFunction()">Try it</button>
+
+
+<script>
+    function myFunction(){
+        var id= setInterval(frame,500);
+
+        var myCollection = document.getElementsByTagName("p");
+        var i=0;
+        function frame(){
+            if ((i == myCollection.lengh)) {
+                clearInterval(id)
+            } else {
+
+                myCollection[i].style.color = "red";
+                i++;
+            }
+        }
+    }
+</script>
+
+</body>
+</html>
